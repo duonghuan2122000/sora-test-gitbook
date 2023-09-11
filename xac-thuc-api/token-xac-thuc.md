@@ -35,9 +35,9 @@ Request
 
 ```json
 {
-	"client_id": "jbf-123456-client",
-	"client_secret": "f9e8f32e-b3f4-42f7-bb8d-c561b97a3db9",
-	"grant_type": "client_credentials"
+  "client_id": "jbf-123456-client",
+  "client_secret": "f9e8f32e-b3f4-42f7-bb8d-c561b97a3db9",
+  "grant_type": "client_credentials"
 }
 ```
 
