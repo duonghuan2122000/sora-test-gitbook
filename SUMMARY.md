@@ -11,3 +11,8 @@
 ## Xác thực API
 
 * [Token xác thực](xac-thuc-api/token-xac-thuc.md)
+
+## Xác nhận đơn hàng
+
+* [Khởi tạo giao dịch](xac-nhan-don-hang/khoi-tao-giao-dich.md)
+* [Xác nhận đơn hàng](xac-nhan-don-hang/xac-nhan-don-hang.md)
